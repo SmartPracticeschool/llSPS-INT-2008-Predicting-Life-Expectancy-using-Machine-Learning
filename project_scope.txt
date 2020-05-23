@@ -1,0 +1,49 @@
+**Project Scope in this format since Zoho Writer is not available in my workspace**
+
+PROJECT SCOPE:
+
+	Project Summary:
+		This project is about predicting the Life Expectancy using Regressive Machine Learning models.
+		The name of the project makes it self-explanatory about its functionalities.
+		Here we predict the possible life expectancy by statistically analysing the factors influencing Life Expectancy, on the 'Life Expectancy (WHO)' dataset available at Kaggle.
+
+	Project Requirements:
+		-> Life Expectancy dataset
+		-> IBM Cloud Services
+		-> Watson Studio
+		-> Building ML Models with Python
+		-> Creating End-points for Node-RED Integration
+
+	Functional Requirements:
+		-> Life Expectancy dataset
+		-> IBM Cloud Services
+		-> Jupyter Notebook
+
+	Technical Requirements:
+		-> Creating Notebook in IBM Watson
+		-> Importing data to Watson
+		-> Building ML Models with Python
+		-> Creating End-points for Node-RED Integration
+
+	Software Requirements:
+		-> IBM Cloud Services
+		-> Watson Studio
+
+	Project Deliverables:
+		The end result of this project will be an ML model that will predict the Life expectancy of a human based on:
+			-> Country
+			-> Year
+			-> Developed/Developing Country
+			-> Adult Mortality
+			-> Infant Deaths
+			-> Alcohol
+			-> Expenditure
+			-> Hepatitis B
+			-> Measles
+		(Data provided by Kaggle)
+
+	Project Team:
+		This is a solo project under SmartBridge
+
+	Project Schedule:
+		May 19, to June 18, 2020.
